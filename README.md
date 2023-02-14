@@ -1,7 +1,6 @@
 # README
 
-## <i>Assignment 3: Extending the Shell</i>
-### <i>by Manav Chaudhary(2021121003)</i>
+# mademoi-shell-e
 
 ---
 ## <u>Objective</u>
@@ -159,5 +158,5 @@ This will start the execution of the <i>"mademoishelle"</i> program.
 ---
 
 ## <u>Authors</u>
-This Project has been made by Manav Chaudhary(2021121003). For further support, you can contact on the mail id: manav.chaudhary@research.iiit.ac.in.
+Made with love by Manav Chaudhary. <br> For further support, you can contact yours truly on the following mail id: manav.chaudhary@research.iiit.ac.in.
 
